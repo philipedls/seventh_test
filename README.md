@@ -1,16 +1,40 @@
-# seventh_app
+# Seventh App
 
-A new Flutter project.
+🚀 Aplicativo Seventh App foi desenvolvido como parte do processo seDeveloperletivo de uma entrevista de emprego para Flutter 
 
-## Getting Started
+![Splash](img/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202021-07-31%20at%2018.55.16.png)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![Login](img/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202021-07-31%20at%2018.55.23.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![Home](img/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202021-07-31%20at%2018.56.17.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Overview
+
+### Metodolgias
+
+* Arquitetura Limpa
+* Programação Orientada a Objetos
+* Programação Reativa
+* Composição
+* Gerência de Estado ( MobX)
+* Design Modular
+
+### Bibliotecas e Ferramentas
+
+* Flutter
+* Dio
+* Env
+* MobX
+* Build Runner
+* Secure Storage
+* Lottie
+* Video Viewer
+* Git
+
+---
+
+[![License: MIT](https://img.shields.io/badge/license-MIT-purple.svg)](https://github.com/philipedls/seventh_test/blob/main/LICENSE)
+
+Copyright (c) 2021 Philipe Luna
