@@ -1,1 +1,1 @@
-export './seventh_media_ententy.dart';
+export './seventh_media_entity.dart';
