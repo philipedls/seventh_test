@@ -11,12 +11,14 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.2
-  dartz: ^0.9.2
   dio: ^4.0.0
   equatable: ^2.0.3
+  flutter_dotenv: ^5.0.0
   flutter_mobx: ^2.0.1
+  flutter_secure_storage: ^4.2.1
+  lottie: ^1.1.0
   mobx: ^2.0.3
-  shared_preferences: ^2.0.6
+  video_viewer: ^1.2.5
 
 dev_dependencies:
   flutter_test:
@@ -24,10 +26,9 @@ dev_dependencies:
   build_runner: ^2.0.6
   mobx_codegen: ^2.0.2
   mockito: ^5.0.12
-  test: ^1.17.10
 
 flutter:
   uses-material-design: true
-  # assets:
-  #   - images/a_dot_burr.jpeg
-  #   - images/a_dot_ham.jpeg
+  assets:
+    - assets/
+    - .env
