@@ -1,6 +1,6 @@
 # Seventh App
 
-🚀 Aplicativo Seventh App foi desenvolvido como parte do processo seDeveloperletivo de uma entrevista de emprego para Flutter 
+🚀 Aplicativo Seventh App foi desenvolvido como parte do processo seletivo de uma entrevista de emprego para Flutter 
 
 ![Splash](img/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202021-07-31%20at%2018.55.16.png)
 
